@@ -44,7 +44,7 @@ A full-stack app that lets users shorten long URLs and track usage.
 ### 🎓 Education
 
 - **MCA** – St. Joseph Engineering College (Expected: 2025)  
-- **BCA** – RSM NGFGC College, Udupi (2023)
+- **BCA** – SRSM NGFGC College, Udupi (2023)
 
 ---
 
