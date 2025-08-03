@@ -55,12 +55,4 @@ A full-stack app that lets users shorten long URLs and track usage.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayNaik01&show_icons=true&theme=default" width="48%" />
-</p>
-
----
-
 Thanks for visiting my profile!
